@@ -1,4 +1,4 @@
-# The-Red-Bricks
+# Red-Brick-Journey
 
 ## מבוא
 
